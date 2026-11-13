@@ -8,17 +8,15 @@
   <a href="mailto:arin.nky@outlook.com"><img src="https://img.shields.io/badge/Email-say%20hi-8f8395?style=flat-square&labelColor=1a1220" alt="Email" /></a>
 </p>
 
-## Hey there, it's Nook!
+## An aspiring developer.
 
-I'm a full-stack developer from Thailand who likes owning a feature from the database schema to the deploy pipeline. I build with the MERN stack and TypeScript, ship in Docker, and I'm growing toward cloud and DevOps work.
-
-**Open to junior full-stack roles.**
+Open to junior full-stack roles.
 
 ## Featured work
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| **[Portask](https://github.com/nookarin/Portask)** | B2B client portal for creative agencies. Staff run projects, tasks and milestones; clients follow progress, comment and approve deliverables. Five roles, public progress reports by link, CI/CD. | React, Vite, Tailwind, Express, TypeScript, Prisma, PostgreSQL, Docker, nginx, GitHub Actions |
+| **[Portask](https://github.com/nookarin/Portask)** | B2B client portal for creative agencies. Public progress reportable by link, CI/CD. | React, Vite, Tailwind, Express, TypeScript, Prisma, PostgreSQL, Docker, nginx, GitHub Actions |
 
 ## Toolbox
 
